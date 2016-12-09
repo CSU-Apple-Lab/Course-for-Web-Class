@@ -1,5 +1,6 @@
 # Slides-for-Web-Class
 > CSU苹果实验室，web开发基础，ppt与代码保存仓库。
+如果想观看PPT，请先下载node.js与npm，git clone本项目，执行`npm install&&nodeppt start`
 
 ##课程目录
 <div>
