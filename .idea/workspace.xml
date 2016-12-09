@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb65cad4-4435-4e2b-9a2f-23cae9baae60" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/2,0_html5_css3_bootstrapt.md" afterPath="$PROJECT_DIR$/2,0_html5_css3_bootstrapt.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="CsuApple_web_course.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +30,21 @@
         <entry file="file://$PROJECT_DIR$/1.0_web_base.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="440">
-                <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+              <first_editor relative-caret-position="480">
+                <caret line="326" column="0" selection-start-line="326" selection-start-column="0" selection-end-line="337" selection-end-column="28" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="360">
+                <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -48,7 +62,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2,0_html5_css3_bootstrapt.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2,0_html5_css3_bootstrapt.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2,0_html5_css3_bootstrapt.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -72,16 +86,6 @@
         <entry file="file://$PROJECT_DIR$/assets/img/class2/position_type.png">
           <provider selected="true" editor-type-id="images">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pdf.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/pdf.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -115,16 +119,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="phone.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/phone.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -144,11 +138,12 @@
         <option value="$PROJECT_DIR$/ppts/demo.md" />
         <option value="$PROJECT_DIR$/README_EN.md" />
         <option value="$PROJECT_DIR$/socialnetwork.html" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/a.html" />
         <option value="$PROJECT_DIR$/assets/code/css.html" />
         <option value="$PROJECT_DIR$/1.0_web_base.md" />
         <option value="$PROJECT_DIR$/2,0_html5_css3_bootstrapt.md" />
+        <option value="$PROJECT_DIR$/assets/table.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -359,12 +354,12 @@
       <workItem from="1480694915368" duration="114000" />
       <workItem from="1480695045101" duration="120000" />
       <workItem from="1480695178870" duration="13320000" />
-      <workItem from="1481295121811" duration="4670000" />
+      <workItem from="1481295121811" duration="5449000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35199000" />
+    <option name="totallyTimeSpent" value="35978000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1622" y="-257" width="1569" height="1057" extended-state="0" />
@@ -404,14 +399,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/theme.blue.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/theme.light.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
@@ -598,16 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="40">
-            <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/phone.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -659,23 +636,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.0_web_base.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="440">
-            <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -689,6 +649,42 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="800">
             <caret line="102" column="20" selection-start-line="102" selection-start-column="20" selection-end-line="102" selection-end-column="20" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.0_web_base.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="480">
+            <caret line="326" column="0" selection-start-line="326" selection-start-column="0" selection-end-line="337" selection-end-column="28" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/table.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="360">
+            <caret line="18" column="37" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="37" />
             <folding />
           </first_editor>
           <second_editor />
