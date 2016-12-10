@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>resume</title>
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" rel="stylesheet">
+    <style>
+        body{
+            font-family: 'microsoft yahei',Arial,sans-serif;
+        }
+
+        .cvheader{
+            border-bottom: 1px solid #DFDFDF;
+            padding-top:30px;
+            padding-bottom:20px;
+        }
+
+        .cvheader h1{
+            margin:0;
+        }
+
+        .address{
+            background: #efb73e;
+            color: #fff;
+            padding: 10px 0;
+        }
+
+        /* 定义辅助CSS来美化简历主体 */
+
+        .cvbody{
+            padding-top: 50px;
+        }
+
+        .cbox{
+            margin-bottom: 30px;
+            color: #FFF;
+            padding: 50px;
+        }
+
+        /* 定义cbox颜色 */
+        .green{
+            background: #2ecc71;
+        }
+
+        .red{
+            background: #dd4814;
+        }
+
+        .bbox{
+            border: 1px solid #DFDFDF;
+            border-radius: 5px;
+            margin-bottom:30px;
+            padding: 50px;
+        }
+    </style>
+</head>
+<body>
+<!-- 定义简历的头部 //-->
+
+<div class="container">
+    <div class="row cvheader">
+        <div class="col-lg-7 col-md-7 col-xs-12">
+            <!--  添加颜色//-->
+            <h1 class="text-primary">Bug zhang</h1>
+            <!--  添加图标 //-->
+            <p><span class="glyphicon glyphicon-paperclip"></span>前端工程师</p>
+        </div>
+
+        <div class="col-lg-3 col-md-3 col-xs-12">
+            <div class="row">
+
+                <div class="col-lg-4 col-md-4 col-xs-4">
+                    <p id="contact" class="address text-center">联系</p>
+                </div>
+
+                <div class="col-lg-8 col-md-8 col-xs-8">
+                    <p><span class="glyphicon glyphicon-envelope"></span>nuptunee@gmail.com</p>
+                    <p><span class="glyphicon glyphicon-earphone"></span>15675884010</p>
+                    <p><span class="glyphicon glyphicon-road"></span>湖南省长沙市岳麓区</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-lg-2 col-md-2 col-xs-12">
+            <p>
+                <!-- 这里定义图片为响应式，并且添加圆角效果，以便保证图片在不同设备上都可以完美显示 //-->
+                <img data-toggle="tooltip" data-placement="left" id="avatar" title="我是Terry" class="img-responsive img-rounded" src="img/team4.jpg" alt="">
+            </p>
+        </div>
+    </div>
+</div>
+
+<!-- 定义简历的主体部分 //-->
+
+<div class="container">
+    <div class="row cvbody">
+
+        <!-- 这里定义两个区域，布局定义如下：//-->
+
+        <div class="col-lg-6 col-md-6 col-xs-12">
+
+            <div class="row">
+                <div class="cbox green">
+                    <h4>个人介绍</h4>
+                    <p>
+                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus asperiores eum consequatur hic rem earum repudiandae dicta! Est officiis similique fugiat quod quibusdam rerum ipsum eos soluta tempore cupiditate! Accusantium?
+                    </p>
+                </div>
+                <div class="cbox red">
+                    <h4>个人技能</h4>
+                    <!-- 这里使用Bootstrap3的组件添加技能 //-->
+                    HTML/CSS/Javascript
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-success" style="width:70%"></div>
+                    </div>
+                    <p>angular.js</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-primary" style="width:60%"></div>
+                    </div>
+                    <p>node.js/express</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-primary" style="width:60%"></div>
+                    </div>
+                    <p>mongodb/mysql/postgresql</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-info" style="width:60%"></div>
+                    </div>
+                    <p>linux/</p>
+                    <div class="progress">
+                        <div class="progress-bar progress-bar-warning" style="width:65%"></div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- 为了清楚的分割两个区域，这里我们添加了一个空白区域，或者也可以在CSS中定义Margin实现//-->
+        <div class="col-lg-1 col-md-1 col-xs-12"></div>
+
+        <div class="col-lg-5 col-md-5 col-xs-12">
+
+            <div class="row">
+                <div class="bbox">
+                    <h4>教育背景</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione enim adipisci minima perspiciatis ad nesciunt iure asperiores voluptatem neque aperiam molestias cupiditate facilis a eveniet iste sapiente ab repellendus dignissimos.</p>
+                </div>
+                <div class="bbox">
+                    <h4>工作经验</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis dolorem mollitia repellendus. Magni laudantium placeat repudiandae tempore iure deleniti obcaecati. Architecto delectus doloremque quo. Dicta ratione vero eos pariatur itaque.</p>
+                </div>
+                <div class="bbox">
+                    <h4>个人能力</h4>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reiciendis dolorem mollitia repellendus. Magni laudantium placeat repudiandae tempore iure deleniti obcaecati. Architecto delectus doloremque quo. Dicta ratione vero eos pariatur itaque.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- 引入jQuery类库和Bootstrap3的Javascript类库 //-->
+<script type='text/javascript' src="http://libs.baidu.com/jquery/1.11.1/jquery.js"></script>
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+</body>
+</html>
