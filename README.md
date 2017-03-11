@@ -53,8 +53,8 @@
             <tr>
                 <td>7.0</td>
                 <td>绑定</td>
-                <td>angular.js与mvvm架构</td>
-                <td>5</td>
+                <td>vue.js与mvvm架构</td>
+                <td>4</td>
             </tr>
             <tr>
                 <td>8.0</td>
