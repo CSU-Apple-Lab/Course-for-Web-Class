@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb65cad4-4435-4e2b-9a2f-23cae9baae60" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/1.0_web_base.md" afterPath="$PROJECT_DIR$/1.0_web_base.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/4.0_JavaScript_Brower.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/bg.jpg" afterPath="$PROJECT_DIR$/assets/img/class1/bg.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/bg1.png" afterPath="$PROJECT_DIR$/assets/img/class1/bg1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/http_service.jpg" afterPath="$PROJECT_DIR$/assets/img/class1/http_service.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/next.jpg" afterPath="$PROJECT_DIR$/assets/img/class1/next.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/tim-li.jpg" afterPath="$PROJECT_DIR$/assets/img/class1/tim-li.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/web_front_skill.jpeg" afterPath="$PROJECT_DIR$/assets/img/class1/web_front_skill.jpeg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/codes/class2_1.0.html" afterPath="$PROJECT_DIR$/codes/class1/class2_1.0.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="CsuApple_web_course.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,12 +34,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="1.0_web_base.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.0_web_base.md">
+      <file leaf-file-name="4.0_JavaScript_Brower.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/4.0_JavaScript_Brower.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="408">
-                <caret line="337" column="28" lean-forward="true" selection-start-line="337" selection-start-column="28" selection-end-line="337" selection-end-column="28" />
+              <first_editor relative-caret-position="133">
+                <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -39,15 +47,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="403">
-                <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
-                <folding />
-              </first_editor>
-              <second_editor />
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -66,8 +71,8 @@
         <entry file="file://$PROJECT_DIR$/2.0_html5_css3_bootstrapt.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="836">
-                <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+              <first_editor relative-caret-position="182">
+                <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="97" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -76,7 +81,7 @@
         </entry>
       </file>
       <file leaf-file-name="class2_1.0.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/codes/class2_1.0.html">
+        <entry file="file://$PROJECT_DIR$/codes/class1/class2_1.0.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
@@ -151,7 +156,6 @@
         <option value="$PROJECT_DIR$/assets/code/css.html" />
         <option value="$PROJECT_DIR$/2,0_html5_css3_bootstrapt.md" />
         <option value="$PROJECT_DIR$/assets/table.html" />
-        <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/../未命名文件夹/bs.html" />
         <option value="$PROJECT_DIR$/codes/class2/LightMode(a css animation).html" />
         <option value="$PROJECT_DIR$/codes/android4.4 animation.html" />
@@ -161,6 +165,8 @@
         <option value="$PROJECT_DIR$/codes/class2_1.0.html" />
         <option value="$PROJECT_DIR$/1.0_web_base.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/4.0_JavaScript_Brower.md" />
       </list>
     </option>
   </component>
@@ -231,24 +237,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="codes" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="class2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Slides-for-Web-Class" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Slides-for-Web-Class" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -287,16 +275,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/codes/class2" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/codes/class2" />
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/codes/class2" />
-      <recent name="$PROJECT_DIR$/codes/class2/img" />
-      <recent name="$PROJECT_DIR$/assets/img/class2" />
-      <recent name="$PROJECT_DIR$/assets/code" />
       <recent name="$PROJECT_DIR$/assets/img" />
+      <recent name="$PROJECT_DIR$/assets/img/class4" />
+      <recent name="$PROJECT_DIR$/assets/img/class1" />
+      <recent name="$PROJECT_DIR$/codes/class1" />
+      <recent name="$PROJECT_DIR$/codes/class2" />
     </key>
   </component>
   <component name="RunManager">
@@ -370,23 +358,24 @@
       <workItem from="1480695045101" duration="120000" />
       <workItem from="1480695178870" duration="13320000" />
       <workItem from="1481295121811" duration="14927000" />
-      <workItem from="1489220855191" duration="67000" />
+      <workItem from="1489220855191" duration="790000" />
+      <workItem from="1489225882914" duration="1179000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45523000" />
+    <option name="totallyTimeSpent" value="47425000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="23" width="1233" height="777" extended-state="6" />
-    <editor active="false" />
+    <frame x="47" y="23" width="1233" height="777" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21122113" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21122113" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329927" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -418,17 +407,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/img/bg1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/http_service.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/next.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/next.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -436,22 +415,22 @@
     <entry file="file://$PROJECT_DIR$/ppts/demo.md" />
     <entry file="file://$PROJECT_DIR$/1.0_web_base.md" />
     <entry file="file://$PROJECT_DIR$/assets/code/css.html" />
-    <entry file="file://$PROJECT_DIR$/assets/img/bg.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/bg1.png">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/bg1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/http_service.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/http_service.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/next.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/next.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -459,22 +438,22 @@
     <entry file="file://$PROJECT_DIR$/ppts/demo.md" />
     <entry file="file://$PROJECT_DIR$/1.0_web_base.md" />
     <entry file="file://$PROJECT_DIR$/assets/code/css.html" />
-    <entry file="file://$PROJECT_DIR$/assets/img/bg.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/bg1.png">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/bg1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/http_service.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/http_service.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/next.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/next.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -495,44 +474,44 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/code/css.html" />
-    <entry file="file://$PROJECT_DIR$/assets/img/bg.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/bg1.png">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/bg1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/http_service.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/http_service.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/next.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/next.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README_EN.md" />
-    <entry file="file://$PROJECT_DIR$/assets/img/bg.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/bg.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/bg1.png">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/bg1.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/socialnetwork.html" />
-    <entry file="file://$PROJECT_DIR$/assets/img/http_service.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/http_service.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/next.jpg">
+    <entry file="file://$PROJECT_DIR$/assets/img/class1/next.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -598,6 +577,36 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/table.html" />
+    <entry file="file://$PROJECT_DIR$/../未命名文件夹/bs.html" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="684">
+            <caret line="36" column="27" lean-forward="false" selection-start-line="36" selection-start-column="27" selection-end-line="36" selection-end-column="27" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.0_web_base.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="6289">
+            <caret line="331" column="32" lean-forward="false" selection-start-line="331" selection-start-column="32" selection-end-line="331" selection-end-column="32" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -606,31 +615,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/table.html" />
-    <entry file="file://$PROJECT_DIR$/test.html" />
-    <entry file="file://$PROJECT_DIR$/../未命名文件夹/bs.html" />
-    <entry file="file://$PROJECT_DIR$/codes/class2/android4.4 animation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codes/class2/LightMode(a css animation).html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codes/class2/demo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/codes/class2_1.0.html">
+    <entry file="file://$PROJECT_DIR$/codes/class1/class2_1.0.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
@@ -652,39 +637,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.0_html5_css3_bootstrapt.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="836">
-            <caret line="44" column="18" lean-forward="false" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
+    <entry file="file://$PROJECT_DIR$/codes/class2/demo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.0_web_base.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="408">
-            <caret line="337" column="28" lean-forward="true" selection-start-line="337" selection-start-column="28" selection-end-line="337" selection-end-column="28" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="16" />
+    <entry file="file://$PROJECT_DIR$/codes/class2/LightMode(a css animation).html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/codes/class2/android4.4 animation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="20" lean-forward="false" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.0_html5_css3_bootstrapt.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="403">
-            <caret line="51" column="17" lean-forward="true" selection-start-line="51" selection-start-column="17" selection-end-line="51" selection-end-column="17" />
+          <first_editor relative-caret-position="182">
+            <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="97" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/img/class4/javascript_history.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.0_JavaScript_Brower.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="133">
+            <caret line="20" column="27" lean-forward="false" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
             <folding />
           </first_editor>
           <second_editor />
